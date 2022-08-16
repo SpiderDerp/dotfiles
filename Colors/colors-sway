@@ -1,0 +1,21 @@
+set $wallpaper /home/sreeram/Pictures/chonky-seal-os/wallpapers/wallpaper2.png
+
+set $background #272727
+set $foreground #c9c9c9
+
+set $color0 #272727
+set $color1 #c7c7c7
+set $color2 #909caa
+set $color3 #97a0aa
+set $color4 #9ea3aa
+set $color5 #a9a9aa
+set $color6 #b7b7b7
+set $color7 #c9c9c9
+set $color8 #5d5d5d
+set $color9 #c7c7c7
+set $color10 #909caa
+set $color11 #97a0aa
+set $color12 #9ea3aa
+set $color13 #a9a9aa
+set $color14 #b7b7b7
+set $color15 #c9c9c9

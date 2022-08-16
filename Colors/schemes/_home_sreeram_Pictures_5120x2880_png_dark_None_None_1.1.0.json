@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sreeram/Pictures/5120x2880.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f3641",
+        "foreground": "#c8e7f3",
+        "cursor": "#c8e7f3"
+    },
+    "colors": {
+        "color0": "#1f3641",
+        "color1": "#3097D4",
+        "color2": "#59A8DD",
+        "color3": "#5EC2ED",
+        "color4": "#77C5FC",
+        "color5": "#ADBEBC",
+        "color6": "#8DD2FC",
+        "color7": "#c8e7f3",
+        "color8": "#8ca1aa",
+        "color9": "#3097D4",
+        "color10": "#59A8DD",
+        "color11": "#5EC2ED",
+        "color12": "#77C5FC",
+        "color13": "#ADBEBC",
+        "color14": "#8DD2FC",
+        "color15": "#c8e7f3"
+    }
+}

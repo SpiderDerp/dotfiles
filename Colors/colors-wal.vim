@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/sreeram/Pictures/chonky-seal-os/wallpapers/wallpaper2.png"
+let background = "#272727"
+let foreground = "#c9c9c9"
+let cursor     = "#c9c9c9"
+
+" Colors
+let color0  = "#272727"
+let color1  = "#c7c7c7"
+let color2  = "#909caa"
+let color3  = "#97a0aa"
+let color4  = "#9ea3aa"
+let color5  = "#a9a9aa"
+let color6  = "#b7b7b7"
+let color7  = "#c9c9c9"
+let color8  = "#5d5d5d"
+let color9  = "#c7c7c7"
+let color10 = "#909caa"
+let color11 = "#97a0aa"
+let color12 = "#9ea3aa"
+let color13 = "#a9a9aa"
+let color14 = "#b7b7b7"
+let color15 = "#c9c9c9"

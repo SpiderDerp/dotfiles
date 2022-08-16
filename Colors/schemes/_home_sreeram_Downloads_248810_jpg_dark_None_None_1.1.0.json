@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/sreeram/Downloads/248810.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d121f",
+        "foreground": "#d8b9b0",
+        "cursor": "#d8b9b0"
+    },
+    "colors": {
+        "color0": "#0d121f",
+        "color1": "#774647",
+        "color2": "#81413F",
+        "color3": "#AC4D36",
+        "color4": "#CF4D3E",
+        "color5": "#824241",
+        "color6": "#976564",
+        "color7": "#d8b9b0",
+        "color8": "#97817b",
+        "color9": "#774647",
+        "color10": "#81413F",
+        "color11": "#AC4D36",
+        "color12": "#CF4D3E",
+        "color13": "#824241",
+        "color14": "#976564",
+        "color15": "#d8b9b0"
+    }
+}
